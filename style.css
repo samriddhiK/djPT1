@@ -1,0 +1,54 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+   background-color: rgb(7, 82, 117);
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(46, 0, 252);
+}
+
+body
+{
+    background-size: cover;
+    color:rgb(255, 255, 255);
+    font-family: 'Bungee Spice', cursive;
+}
+
+.div_speed
+{
+    float:left;
+}
+.div_speed_img
+{
+    width:200px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin:15px;
+    background-color: rgb(69, 3, 95);
+    border-radius: 25px;
+}
+
+.div_volume
+{
+    float:right;
+}
+.div_volume_img
+{
+    width:200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin:15px;
+    background-color: rgb(69, 3, 95);
+    border-radius: 25px;
+}
